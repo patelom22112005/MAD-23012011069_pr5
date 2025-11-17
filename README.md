@@ -61,10 +61,12 @@ Create an Android application that includes Login and Registration screens using
     <th>Registration Screeen:</th>
   </tr>
   <tr>
-    <td><img width="400" height="828" alt="image" src="https://github.com/user-attachments/assets/a98926ad-01f0-4ad9-a8c8-784575a0e917" />
+    <td><img width="184" height="410" alt="image" src="https://github.com/user-attachments/assets/f8353967-8cea-41cb-b81d-b5bbaf35abca" />
+
 </td>
     <td>
-      <img width="384" height="828" alt="image" src="<img width="184" height="414" alt="image" src="https://github.com/user-attachments/assets/f1f5d348-f7a5-4755-aef4-dc89529864aa" />
+      <img width="184" height="414" alt="image" src="https://github.com/user-attachments/assets/680b6dfa-d234-4286-9e85-95cf775396fd" />
+" />
 " />
     </td>
   </tr>
